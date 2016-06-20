@@ -31,3 +31,4 @@ Constant.java is used to declare the variables and share them with the above jav
 #To Run the project
 Open Selenium and run junittestsuite.java file. 
 The console will have the comments logged in addition to the browser activity. 
+If you have to run the project the second time, make sure you change the variables in the /utility/Constant.java class.

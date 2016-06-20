@@ -2,6 +2,8 @@
 
 This repository has four java test cases that does the following (in order):
 1) Log in to Pardot (https://pi.pardot.com, Username: pardot.applicant@pardot.com, Password: **********)
+
+
 2) Create a list with a random name (Marketing > Segmentation > Lists)
 3) Attempt to create another list with that same name and ensure the system correctly gives a validation failure
 4) Rename the original list
